@@ -2,6 +2,7 @@ x=9
 
 y=10
 
-b=2
+z = 56
+c=2
 
-print(x-y*b)
+print(x-y*c*z)
