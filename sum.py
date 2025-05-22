@@ -2,4 +2,6 @@ x=9
 
 y=10
 
-print(x+y)
+b=2
+
+print(x-y*b)
