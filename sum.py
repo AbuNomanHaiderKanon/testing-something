@@ -1,12 +1,16 @@
 x=9
 
 y=10
-c=2
+c=6
+
+
+g=5
+h=4
+
+
+print(x-y*g)
 
 d= 7
 
-e =28
-
-print(x-y*b*)
 
 
