@@ -1,8 +1,12 @@
 x=9
 
 y=10
-c=2
+c=6
 
-print(x-y*b)
+g=5
+h=4
+
+
+print(x-y*g)
 
 
