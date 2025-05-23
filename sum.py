@@ -5,6 +5,8 @@ c=2
 
 d= 7
 
-print(x-y*b)
+e =28
+
+print(x-y*b*)
 
 
